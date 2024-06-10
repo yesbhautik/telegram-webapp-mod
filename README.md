@@ -53,7 +53,7 @@ Follow Steps 1 to 3 as described above.
     ```
 
 #### Step 5: Open Hamster Kombat Web
-Close any open Hamster Kombat web sessions, then open [Hamster Kombat Web](https://web.telegram.org/) in a new tab.
+Close any open Hamster Kombat session on Telegram Web, then open Hamster Kombat on [Telegram Web](https://web.telegram.org/) in a new tab.
 
 ---
 
